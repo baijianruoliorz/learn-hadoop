@@ -1,4 +1,4 @@
-hadoop的学习过程小总结
+##hadoop的学习过程小总结
 
 hadoop统计文章各单词个数jar:
 
@@ -14,4 +14,4 @@ hadoop jar jar'sName com.atguigu.wordcount.WcDriver 预统计文件 输出结果
 
 cat 结果文件即可见到统计结果
 
-[!image](https://edu-1014.oss-cn-beijing.aliyuncs.com/TIM%E5%9B%BE%E7%89%8720200828151558.jpg)
+![image](https://edu-1014.oss-cn-beijing.aliyuncs.com/TIM%E5%9B%BE%E7%89%8720200828151558.jpg)
